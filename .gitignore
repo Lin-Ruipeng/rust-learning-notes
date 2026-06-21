@@ -1,0 +1,8 @@
+# 忽略文件
+
+# 忽略Rust的构建文件
+**/target/
+# 忽略Cargo的锁文件
+Cargo.lock
+# 忽略IDE的配置文件
+**/.rustc_info.json
